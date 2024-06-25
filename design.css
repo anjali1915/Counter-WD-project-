@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("Build a Data-Driven HR Team and Company Culture.png");
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+   font-size: 30px;
+   font-weight: 10px; 
+   margin-right: 240px;
+   margin-top: 30px;
+   float :right;
+    color: rgba(234, 6, 6, 0.871);
+}
+p{
+font-size: 30px;
+font-weight: 10px; 
+margin-left: 80px;
+text-align: right;
+margin-top: 10px;
+padding: 100px 40px;
+margin-right: 180px;
+color: rgba(32, 1, 86, 0.871);
+}
+   
+
+.main input{
+    font-size: 25px;
+    font-weight: 10px; 
+   background-color: rgb(176, 250, 5);
+    border : black solid 4px;
+    height: 50px;
+    width: 70px;
+    margin: 15px;
+    display:block;
+    text-align: center;
+}
+.main {
+    margin-right: 150px;
+    font-size: 20px;
+    font-weight: 10px; 
+   float: right;
+   color: blue;
+   margin-left: 20px;
+   display:flex;
+   text-align: center;
+}
